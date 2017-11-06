@@ -1,0 +1,9 @@
+[package]
+name = "url_extractor"
+version = "0.1.0"
+authors = ["Ruben Schmidmeister <ruben.schmidmeister@icloud.com>"]
+
+[dependencies]
+url = "1.6.0"
+regex = "0.2"
+lazy_static = "0.2.9"
